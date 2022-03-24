@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://www.foromedios.com/uploads/monthly_2016_10/small.LogCV-MitreCBA.png.9762449a738dc7318f86e44590eddc17.png", Radio Mitre Córdoba
+https://musicsrc.cvattv.com.ar/RMCB
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://cdn-profiles.tunein.com/s26008/images/logog.png?t=636325", Cadena 3 AM 700
+https://c3ny1.mediainbox.net/cadena3.mp3
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png", La 100
+https://musicsrc.cvattv.com.ar/L100
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://www.foromedios.com/uploads/monthly_2016_10/small.LogCV-MitreBA.png.58b6c1daa83322466047658bcb070cf9.png", Mitre 790
+https://musicsrc.cvattv.com.ar/RMIT
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://www.radio.es/images/broadcasts/f8/51/114080/1/c300.png", Radio Disney Argentina
+https://musicsrc.cvattv.com.ar/RDIS
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://rivadavia.com.ar/assets/img/icon/icon-512.png", Radio Rivadavia AM630
+https://musicsrc.cvattv.com.ar/RRIV
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://pbs.twimg.com/profile_images/1131576243697201152/PfdkQM9Z_400x400.jpg", CNN Radio Argentina
+https://musicsrc.cvattv.com.ar/RCNN
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://cdn-profiles.tunein.com/s24998/images/logod.png", Los 40 Argentina
+https://13743.live.streamtheworld.com/LOS40_ARGENTINA_SC
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FpjPEyIIGVaWMXFYnYxbfnu8z_DbYVDSlmvGxblyPJpc%2Frs%3Afit%3A320%3A320%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9lZGl0b3IuemVub21lZGlhLmNvbS9yZXNvdXJjZXMvenNfc3RhdGlvbi84MzM0MTQvQ2FyZFdlYnNpdGUvNzU5YThhOGMtYTljYi00ZDE2LTk5Y2QtNTI5NzkxNmY3YTIzLndlYnA.webp&w=1920&q=75", Lacity FM
+http://streaming01.shockmedia.com.ar:8870/stream
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://cdn-profiles.tunein.com/s287315/images/logod.jpg", GAMMA 91.1 FM
+http://147.135.71.44:8880/stream
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FojfbTtz-OrCQJgoklYeXwDDe-AD4hYZ_YBG70ICC5z8%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lqdDJud1FvTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzMwMDMxMzAwMA.webp&w=256&q=75", Jive FM
+https://stream.zeno.fm/n958khk73hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FTagTwdpg4mD_BD-vWHrx6fQRSyHcsJWgq8NvqJ5D-xU%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0lwdS1TbXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzIwNzQ5NzAwMA.webp&w=256&q=75", Clasica FM
+https://stream.zeno.fm/8n4yzgpy4hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FEVnGyObY8KA5pFoUUzfYx-vEC0uLiYLv7GdZYpaxiCo%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0k5cFRNMkFrTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzIwODk1MTAwMA.webp&w=256&q=75", Lacity80s
+https://stream.zeno.fm/ba59a1113hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FtYqsATqkOAOVT5wJPtN2jyaqAy1YVJD8Ci1ACyiWVoE%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l0b0dCOEFrTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzIwODQyNDAwMA.webp&w=256&q=75", Lacity90s
+https://stream.zeno.fm/2xu7yn463hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FjF-U_ybu5rqKDOOEAywIoAr62o6pTLYRvy0YzF4w4OY%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0l0c0dTblFrTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzIwODg0MDAwMA.webp&w=256&q=75", Lacity2000s
+https://stream.zeno.fm/xmhzmkc73hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FZuqfBM9sU5-8DB8CXuPU0SswYl2gZPMGlRJyU5WD5Rk%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0k5dm5wcWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzIwODUzMjAwMA.webp&w=256&q=75", LacityDANCE
+https://stream.zeno.fm/4bauzqky4hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FWyOE73iuT5PBB6ffabCiHVIZxGUVEzZyPNkZkQtkGPw%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0k5cGpMdXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ0kxcHJlZ0FzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NzIxMDAzNTAwMA.webp&w=256&q=75", LacityLOVE
+https://stream.zeno.fm/kzgqsbv73hhvv
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", ELECTRONICA
+https://musicsrc.cvattv.com.ar/RM41
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", TOP EUROPA
+https://musicsrc.cvattv.com.ar/RM02
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", ROCK NACIONAL
+https://musicsrc.cvattv.com.ar/RM17
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", GRANDES DEL ROCK
+https://musicsrc.cvattv.com.ar/RM18
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", NEW PARTY RADIO
+https://musicsrc.cvattv.com.ar/RM15
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", NUEVOS CLASICOS
+https://musicsrc.cvattv.com.ar/RM03
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", 70 INTERNACIONAL
+https://musicsrc.cvattv.com.ar/RM07
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", 80 INTERNACIONAL
+https://musicsrc.cvattv.com.ar/RM05
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", 90 INTERNACIONAL
+https://musicsrc.cvattv.com.ar/RM04
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", 80/90 INTERNACIONAL
+https://musicsrc.cvattv.com.ar/RM06
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", POWER BALLADS
+https://musicsrc.cvattv.com.ar/RM21
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", LENTOS
+https://musicsrc.cvattv.com.ar/RM27
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", TRENDY
+https://musicsrc.cvattv.com.ar/RM42
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", AMADEUS
+https://musicsrc.cvattv.com.ar/RM48
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", OPERA
+https://musicsrc.cvattv.com.ar/RM49
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", RETROMIX
+https://musicsrc.cvattv.com.ar/RM16
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", ROCK ALTERNATIVO
+https://musicsrc.cvattv.com.ar/RM20
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", JAZZ
+https://musicsrc.cvattv.com.ar/RM37
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", SMOOTH JAZZ
+https://musicsrc.cvattv.com.ar/RM38
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", DISCO
+https://musicsrc.cvattv.com.ar/RM14
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", TANGO ELECTRONICO
+https://musicsrc.cvattv.com.ar/RM47
+#EXTINF:0 type="stream" channelId="-1" group="RADIOS" logo="https://img.icons8.com/emoji/256/radio-emoji.png", CHILL OUT
+https://musicsrc.cvattv.com.ar/RM39
