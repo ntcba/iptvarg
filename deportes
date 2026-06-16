@@ -1,7 +1,246 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", Dsports
+#EXTINF:-1,Telefé
+http://190.7.19.197:232/play/a059
+#EXTINF:-1,El Trece
+http://190.7.19.197:232/play/a05a
+#EXTINF:-1,América TV
+http://190.7.19.197:232/play/a03b
+#EXTINF:-1,Televisión Pública
+http://190.7.19.197:232/play/a03c
+#EXTINF:-1,El Nueve
+http://190.7.19.197:232/play/a03k
+#EXTINF:-1,Todo Noticias
+http://190.7.19.197:232/play/a03l
+#EXTINF:-1,La Nación+
+http://190.7.19.197:232/play/a043
+#EXTINF:-1,A24
+http://190.7.19.197:232/play/a03z
+#EXTINF:-1,C5N
+http://190.7.19.197:232/play/a040
+#EXTINF:-1,Crónica
+http://190.7.19.197:232/play/a041
+#EXTINF:-1,Net TV
+http://190.7.19.197:232/play/a095
+#EXTINF:-1,El Destape
+#EXTALBUMARTURL:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1OGYiOKTot9EzvubZyfMqRNAt45YelYAS8aWAN2CZYR76OTRJxfNittMTuPYWiDOVCG00BWSh-XypPvQAS96EG3-aJKrlWOFM-lF-QY5qp423XuKvj8VD5KTzd17omZ9JaCKTyXGx4cdiGYDZjBw7_gJc72aVte4QUxGMs84nkWm_bVolnCB-0DD7Is/s156/ELDESTAPE-MUNDO-VF2.png
+http://190.7.19.197:232/play/a00r
+#EXTINF:-1,Canal de la Ciudad
+http://190.7.19.197:232/play/a01j
+#EXTINF:-1,Ciudad Magazine
+http://190.7.19.197:232/play/a04l
+#EXTINF:-1,AR12
+#EXTALBUMARTURL:https://www.totalmedios.com/img/noticias/2025/11/691107e84fdd3_838x390.jpg
+http://190.7.19.197:232/play/a00o
+#EXTINF:-1,26 TV
+http://190.7.19.197:232/play/a042
+#EXTINF:-1,France 24
+http://179.43.96.253:8000/play/a2bn
+#EXTINF:-1,Argentinisima
+http://190.7.19.197:232/play/a01z
+#EXTINF:-1,Metro (AR)
+http://190.7.19.197:232/play/a018
+#EXTINF:-1,A&E
+http://190.7.19.197:232/play/a00c
+#EXTINF:-1,AMC
+http://190.7.19.197:232/play/a046
+#EXTINF:-1,AXN
+http://190.7.19.197:232/play/a00b
+#EXTINF:-1,Cine.AR
+http://190.7.19.197:232/play/a04b
+#EXTINF:-1,Cinecanal
+http://190.7.19.197:232/play/a05y
+#EXTINF:-1,Cinemax
+http://190.7.19.197:232/play/a009
+#EXTINF:-1,Comedy Central
+http://190.7.19.197:232/play/a01d
+#EXTINF:-1,Europa Europa
+http://190.7.19.197:232/play/a01o
+#EXTINF:-1,FX
+http://190.7.19.197:232/play/a04z
+#EXTINF:-1,Film & Arts
+http://190.7.19.197:232/play/a01e
+#EXTINF:-1,HBO
+http://190.7.19.197:232/play/a05e
+#EXTINF:-1,HBO 2
+http://190.7.19.197:232/play/a05g
+#EXTINF:-1,HBO Family
+http://190.7.19.197:232/play/a01m
+#EXTINF:-1,HBO Mundi
+http://181.13.252.102:8000/play/a02a
+#EXTINF:-1,HBO Pop
+http://190.7.19.197:232/play/a016
+#EXTINF:-1,HBO Plus
+http://190.7.19.197:232/play/a05f
+#EXTINF:-1,HBO Signature
+http://190.7.19.197:232/play/a04g
+#EXTINF:-1,HBO Xtreme
+http://190.7.19.197:232/play/a017
+#EXTINF:-1,Paramount Channel
+http://181.209.96.155:10000/play/a12w
+#EXTINF:-1,Sony Channel
+http://190.7.19.197:232/play/a01g
+#EXTINF:-1,Sony Movies
+http://190.7.19.197:232/play/a01i
+#EXTINF:-1,Space
+http://190.7.19.197:232/play/a050
+#EXTINF:-1,Star Channel
+http://190.7.19.197:232/play/a05w
+#EXTINF:-1,Golden
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png
+http://179.43.96.253:8000/play/a2b0
+#EXTINF:-1,Studio Universal
+http://190.7.19.197:232/play/a049
+#EXTINF:-1,TCM
+http://190.7.19.197:232/play/a014
+#EXTINF:-1,TNT
+http://190.7.19.197:232/play/a060
+#EXTINF:-1,TNT Novelas
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png
+http://190.7.19.197:232/play/a00g
+#EXTINF:-1,TNT Series
+http://190.7.19.197:232/play/a088
+#EXTINF:-1,USA Network
+#EXTALBUMARTURL:https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png
+http://190.7.19.197:232/play/a04a
+#EXTINF:-1,Universal TV
+http://190.7.19.197:232/play/a03u
+#EXTINF:-1,Volver
+http://190.7.19.197:232/play/a048
+#EXTINF:-1,Warner TV
+http://190.7.19.197:232/play/a01h
+#EXTINF:-1,A3 Series
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png
+http://38.224.231.47:8000/play/a01o
+#EXTINF:-1,AM Sports
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1280px-Logo_AM-sports-2019.svg.png
+http://190.7.19.197:232/play/a044
+#EXTINF:-1,DeporTV
+http://190.7.19.197:232/play/a05d
+#EXTINF:-1,Dsports
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png
 http://190.7.19.197:232/play/a09i
-#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", Dspots 2
+#EXTINF:-1,Dspots 2
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png
 http://190.7.19.197:232/play/a09h
-#EXTINF:0 type="stream" channelId="3802" group="DEPORTES", TyC Sports
+#EXTINF:-1,TyC Sports
+http://181.209.96.155:10000/play/a12q
+#EXTINF:-1,TyC Sports 2
 http://190.7.19.197:232/play/a04w
+#EXTINF:-1,ESPN
+http://190.7.19.197:232/play/a03n
+#EXTINF:-1,ESPN 2
+http://190.7.19.197:232/play/a03m
+#EXTINF:-1,ESPN 3
+http://190.7.19.197:232/play/a03o
+#EXTINF:-1,ESPN 4
+http://190.7.19.197:232/play/a05t
+#EXTINF:-1,ESPN 5
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESPN_5_Logo.png/960px-ESPN_5_Logo.png
+http://179.43.96.253:8000/play/a1yf
+#EXTINF:-1,ESPN 6
+http://38.224.231.47:8000/play/a02w
+#EXTINF:-1,ESPN 7
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png
+http://179.43.96.253:8000/play/a1ur
+#EXTINF:-1,ESPN Premium
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png
+http://190.7.19.197:232/play/a038
+#EXTINF:-1,Fox Sports
+http://190.7.19.197:232/play/a05u
+#EXTINF:-1,Fox Sports 2
+http://190.7.19.197:232/play/a03p
+#EXTINF:-1,Fox Sports 3
+http://190.7.19.197:232/play/a04x
+#EXTINF:-1,TNT Premium
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_Sports_2020_logo.svg/3840px-TNT_Sports_2020_logo.svg.png
+http://190.7.19.197:232/play/a037
+#EXTINF:-1,Animal Planet
+http://190.7.19.197:232/play/a081
+#EXTINF:-1,Discovery Channel
+http://190.7.19.197:232/play/a065
+#EXTINF:-1,Discovery Home & Health
+http://190.7.19.197:232/play/a064
+#EXTINF:-1,Investigation Discovery
+http://179.43.96.253:8000/play/a1xu
+#EXTINF:-1,Discovery Science
+http://190.7.19.197:232/play/a04o
+#EXTINF:-1,Discovery Theater
+http://190.7.19.197:232/play/a053
+#EXTINF:-1,Discovery Turbo
+http://190.7.19.197:232/play/a045
+#EXTINF:-1,Discovery World
+http://190.7.19.197:232/play/a055
+#EXTINF:-1,Food Network
+http://179.43.96.253:8000/play/a2bh
+#EXTINF:-1,El Gourmet
+http://190.7.19.197:232/play/a01p
+#EXTINF:-1,Encuentro
+http://190.7.19.197:232/play/a013
+#EXTINF:-1,History
+http://190.7.19.197:232/play/a03h
+#EXTINF:-1,H2
+http://190.7.19.197:232/play/a019
+#EXTINF:-1,Lifetime
+http://190.7.19.197:232/play/a01l
+#EXTINF:-1,National Geographic Channel
+http://190.7.19.197:232/play/a03s
+#EXTINF:-1,Canal Rural
+http://190.7.19.197:232/play/a04j
+#EXTINF:-1,Cartoon Network
+http://190.7.19.197:232/play/a05s
+#EXTINF:-1,Cartoonito
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png
+http://179.43.96.253:8000/play/a2c7
+#EXTINF:-1,Tooncast
+http://190.7.19.197:232/play/a01w
+#EXTINF:-1,BabyTV
+http://190.7.19.197:232/play/a04i
+#EXTINF:-1,Disney Channel
+http://190.7.19.197:232/play/a04v
+#EXTINF:-1,Disney Junior
+http://190.7.19.197:232/play/a03d
+#EXTINF:-1,Nick Jr.
+http://190.7.19.197:232/play/a01n
+#EXTINF:-1,Nickelodeon
+http://190.7.19.197:232/play/a03e
+#EXTINF:-1,PakaPaka
+http://190.7.19.197:232/play/a03y
+#EXTINF:-1,Adult Swim
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png
+http://190.7.19.197:232/play/a01s
+#EXTINF:-1,CM
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png
+http://190.7.19.197:232/play/a094
+#EXTINF:-1,HTV
+http://190.7.19.197:232/play/a01a
+#EXTINF:-1,MTV
+#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png
+http://190.7.19.197:232/play/a04q
+#EXTINF:-1,MTV 00s
+http://181.13.252.102:8000/play/a053
+#EXTINF:-1,Quiero Musica
+http://190.7.19.197:232/play/a04r
+#EXTINF:-1,CNN
+http://38.224.231.47:8000/play/a06g
+#EXTINF:-1,CNN en Español
+http://190.7.19.197:232/play/a03j
+#EXTINF:-1,CNN Chile
+http://38.226.49.253:8000/play/a04y
+#EXTINF:-1,Chilevisión
+http://38.226.49.253:8000/play/a0c9
+#EXTINF:-1,DWTV
+http://38.224.231.47:8000/play/a01l
+#EXTINF:-1,BBC World News
+http://38.224.231.47:8000/play/a01c
+#EXTINF:-1,Rai Italia
+http://190.7.19.197:232/play/a01b
+#EXTINF:-1,RT Español
+http://190.7.19.197:232/play/a01k
+#EXTINF:-1,TVE
+http://190.7.19.197:232/play/a01r
+#EXTINF:-1,Galicia TV
+http://190.7.19.197:232/play/a01c
+#EXTINF:-1,Las Estrellas
+http://181.209.96.155:10000/play/a15z
+#EXTINF:-1,E!
+http://190.7.19.197:232/play/a00a
