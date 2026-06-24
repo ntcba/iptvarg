@@ -1,246 +1,233 @@
 #EXTM3U
-#EXTINF:-1,Telefé
+#EXTINF:0 type="stream" channelId="-1" group="LOCALES NOTICIAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gNgI9WaDrq_K5ZOrMwE2s6KIWY7MXL5ALA&s", GAMMA TV
+https://sae13.playlist.ttvnw.net/v1/playlist/Co4HbTx7mhrHu_zXhu7-kBx22T_holZM-OqQ_PvtTDkge44H-TxYk01DAmHCYAD1VylJ9SFbFQXnRZ1XP0adI5FeZ9rkcb2FfXgo6Zz59RGa3X8K7w_HJ21Vo6nI5ZLMY6rhVKz4aeagApoDYCJenXyGF_6tXzvmMmnqkyzkw-FyizNLC0touQc43zjfKsaN9GsYX2ovLRtSkcFiZV8iObAMASZeVRnjDAZLw8Lrne6l-XBwOop65I2TOlXPmruquToC69OZs0AZh_FRjrl7Re1zDgdN96-w6WjBVlH7NfXpZRMy092cPa6jdvJG1zP1791Xeki5ZmSPgP7nHa1II1rwocbdgeYkU0LAbdQwmYYCwTZX13xvCdIYvofIa8vv00jjtxuKV-hGRASQr_XtcoSyeqp2z9VAYi_LvLS3R8rnZlsAGQ3fEtMdaAiXywblmbE9mS5kg2rEIpvwoBEKxdzlmJETHLQGV_AAuOVXYOfsuGo3l8a9uhubbMWsahX6irPj243kxTvI7IGIAsPc76IwT6CLWUdp530PrXUwXNovM_qhOOcoyhl3Rex-lJWi0c0DU7jifjp5CKtLRgXQPXatV_xZma1UrnHDDb5WFwSBMQp0Ta8n2B7z9pZDPsU5HKIhBqy2UR-INz5g2j-ZspErrTiea42HlKQdTAceCCqT4X4jFWsJxfiPpBdnURQBwfNJTC4kpsX6DKnx4n2ii-cpPAwnSOfukMUdkLOvxpO2zyBHwHGkmZcn7kRFRp87MApiR7oXMqfMZLqiVViPjWszsbFNk5u5xImY5bfPlKjJb748rAxZc8eGddamB0KYf90XoHdNTRc-NfWgUL5FCPvw4qlS1CCmiVuvHCZkymcT3rO6SEZabOg0grbbtIm7of2nvuoETFJx2JHuBJ5tNhEy2ySUsUX8PjH4Q8pLVAZA8dUR2vSokcHgkcVy7Ifh9x9vQsSemjfyXMZKpaOK8HVywyeK8p3OY1Xpor2GfRaRfvWoGHKnj5OegIwCjXhITjbdVaFXRZUE7dVm6vD5nc3pvHQptL-Wz_U2zK1TvNbDNIg-cGst3LHigq4o2bxdlI3QfZpbpQJbP_iN2o9SfI4CaXwzpDwY-aOxzhbIK9g1BugIAAqk3YgqySsJDKqNh5s_YvT9QVailqBtsuFGk6Re6LTfeSsrYMR8himH5mQ2teoZYAoHaRjSTuBWHDKFrBoMTpMwlJH3PkYGpG7-IAEqCXVzLWVhc3QtMjC3Dw.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="LOCALES NOTICIAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gNgI9WaDrq_K5ZOrMwE2s6KIWY7MXL5ALA&s", GAMMA TV (2)
+https://sae13.playlist.ttvnw.net/v1/playlist/Co4HbTx7mhrHu_zXhu7-kBx22T_holZM-OqQ_PvtTDkge44H-TxYk01DAmHCYAD1VylJ9SFbFQXnRZ1XP0adI5FeZ9rkcb2FfXgo6Zz59RGa3X8K7w_HJ21Vo6nI5ZLMY6rhVKz4aeagApoDYCJenXyGF_6tXzvmMmnqkyzkw-FyizNLC0touQc43zjfKsaN9GsYX2ovLRtSkcFiZV8iObAMASZeVRnjDAZLw8Lrne6l-XBwOop65I2TOlXPmruquToC69OZs0AZh_FRjrl7Re1zDgdN96-w6WjBVlH7NfXpZRMy092cPa6jdvJG1zP1791Xeki5ZmSPgP7nHa1II1rwocbdgeYkU0LAbdQwmYYCwTZX13xvCdIYvofIa8vv00jjtxuKV-hGRASQr_XtcoSyeqp2z9VAYi_LvLS3R8rnZlsAGQ3fEtMdaAiXywblmbE9mS5kg2rEIpvwoBEKxdzlmJETHLQGV_AAuOVXYOfsuGo3l8a9uhubbMWsahX6irPj243kxTvI7IGIAsPc76IwT6CLWUdp530PrXUwXNovM_qhOOcoyhl3Rex-lJWi0c0DU7jifjp5CKtLRgXQPXatV_xZma1UrnHDDb5WFwSBMQp0Ta8n2B7z9pZDPsU5HKIhBqy2UR-INz5g2j-ZspErrTiea42HlKQdTAceCCqT4X4jFWsJxfiPpBdnURQBwfNJTC4kpsX6DKnx4n2ii-cpPAwnSOfukMUdkLOvxpO2zyBHwHGkmZcn7kRFRp87MApiR7oXMqfMZLqiVViPjWszsbFNk5u5xImY5bfPlKjJb748rAxZc8eGddamB0KYf90XoHdNTRc-NfWgUL5FCPvw4qlS1CCmiVuvHCZkymcT3rO6SEZabOg0grbbtIm7of2nvuoETFJx2JHuBJ5tNhEy2ySUsUX8PjH4Q8pLVAZA8dUR2vSokcHgkcVy7Ifh9x9vQsSemjfyXMZKpaOK8HVywyeK8p3OY1Xpor2GfRaRfvWoGHKnj5OegIwCjXhITjbdVaFXRZUE7dVm6vD5nc3pvHQptL-Wz_U2zK1TvNbDNIg-cGst3LHigq4o2bxdlI3QfZpbpQJbP_iN2o9SfI4CaXwzpDwY-aOxzhbIK9g1BugIAAqk3YgqySsJDKqNh5s_YvT9QVailqBtsuFGk6Re6LTfeSsrYMR8himH5mQ2teoZYAoHaRjSTuBWHDKFrBoMTpMwlJH3PkYGpG7-IAEqCXVzLWVhc3QtMjC3Dw
+#EXTINF:0 type="stream" channelId="3789" group="LOCALES NOTICIAS", Telefé
 http://190.7.19.197:232/play/a059
-#EXTINF:-1,El Trece
+#EXTINF:0 type="stream" channelId="2409" group="LOCALES NOTICIAS", El Trece
 http://190.7.19.197:232/play/a05a
-#EXTINF:-1,América TV
+#EXTINF:0 type="stream" channelId="2546" group="LOCALES NOTICIAS", América TV
 http://190.7.19.197:232/play/a03b
-#EXTINF:-1,Televisión Pública
+#EXTINF:0 type="stream" channelId="4654" group="LOCALES NOTICIAS", Televisión Pública
 http://190.7.19.197:232/play/a03c
-#EXTINF:-1,El Nueve
+#EXTINF:0 type="stream" channelId="4651" group="LOCALES NOTICIAS", El Nueve
 http://190.7.19.197:232/play/a03k
-#EXTINF:-1,Todo Noticias
+#EXTINF:0 type="stream" channelId="2844" group="LOCALES NOTICIAS", Todo Noticias
 http://190.7.19.197:232/play/a03l
-#EXTINF:-1,La Nación+
+#EXTINF:0 type="stream" channelId="4667" group="LOCALES NOTICIAS", La Nación+
 http://190.7.19.197:232/play/a043
-#EXTINF:-1,A24
+#EXTINF:0 type="stream" channelId="4655" group="LOCALES NOTICIAS", A24
 http://190.7.19.197:232/play/a03z
-#EXTINF:-1,C5N
+#EXTINF:0 type="stream" channelId="1929" group="LOCALES NOTICIAS", C5N
 http://190.7.19.197:232/play/a040
-#EXTINF:-1,Crónica
+#EXTINF:0 type="stream" channelId="4653" group="LOCALES NOTICIAS", Crónica
 http://190.7.19.197:232/play/a041
-#EXTINF:-1,Net TV
+#EXTINF:0 type="stream" channelId="4670" group="LOCALES NOTICIAS", Net TV
 http://190.7.19.197:232/play/a095
-#EXTINF:-1,El Destape
-#EXTALBUMARTURL:https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1OGYiOKTot9EzvubZyfMqRNAt45YelYAS8aWAN2CZYR76OTRJxfNittMTuPYWiDOVCG00BWSh-XypPvQAS96EG3-aJKrlWOFM-lF-QY5qp423XuKvj8VD5KTzd17omZ9JaCKTyXGx4cdiGYDZjBw7_gJc72aVte4QUxGMs84nkWm_bVolnCB-0DD7Is/s156/ELDESTAPE-MUNDO-VF2.png
+#EXTINF:0 type="stream" channelId="-1" group="LOCALES NOTICIAS" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1OGYiOKTot9EzvubZyfMqRNAt45YelYAS8aWAN2CZYR76OTRJxfNittMTuPYWiDOVCG00BWSh-XypPvQAS96EG3-aJKrlWOFM-lF-QY5qp423XuKvj8VD5KTzd17omZ9JaCKTyXGx4cdiGYDZjBw7_gJc72aVte4QUxGMs84nkWm_bVolnCB-0DD7Is/s156/ELDESTAPE-MUNDO-VF2.png", El Destape
 http://190.7.19.197:232/play/a00r
-#EXTINF:-1,Canal de la Ciudad
+#EXTINF:0 type="stream" channelId="4663" group="LOCALES NOTICIAS", Canal de la Ciudad
 http://190.7.19.197:232/play/a01j
-#EXTINF:-1,Ciudad Magazine
+#EXTINF:0 type="stream" channelId="2843" group="LOCALES NOTICIAS", Ciudad Magazine
 http://190.7.19.197:232/play/a04l
-#EXTINF:-1,AR12
-#EXTALBUMARTURL:https://www.totalmedios.com/img/noticias/2025/11/691107e84fdd3_838x390.jpg
+#EXTINF:0 type="stream" channelId="-1" group="LOCALES NOTICIAS" logo="https://www.totalmedios.com/img/noticias/2025/11/691107e84fdd3_838x390.jpg", AR12
 http://190.7.19.197:232/play/a00o
-#EXTINF:-1,26 TV
+#EXTINF:0 type="stream" channelId="2726" group="LOCALES NOTICIAS", 26 TV
 http://190.7.19.197:232/play/a042
-#EXTINF:-1,France 24
+#EXTINF:0 type="stream" channelId="139" group="LOCALES NOTICIAS", France 24
 http://179.43.96.253:8000/play/a2bn
-#EXTINF:-1,Argentinisima
+#EXTINF:0 type="stream" channelId="4648" group="LOCALES NOTICIAS", Argentinisima
 http://190.7.19.197:232/play/a01z
-#EXTINF:-1,Metro (AR)
+#EXTINF:0 type="stream" channelId="4662" group="LOCALES NOTICIAS", Metro (AR)
 http://190.7.19.197:232/play/a018
-#EXTINF:-1,A&E
+#EXTINF:0 type="stream" channelId="1208" group="PELICULAS SERIES", A&E
 http://190.7.19.197:232/play/a00c
-#EXTINF:-1,AMC
+#EXTINF:0 type="stream" channelId="2501" group="PELICULAS SERIES", AMC
 http://190.7.19.197:232/play/a046
-#EXTINF:-1,AXN
+#EXTINF:0 type="stream" channelId="1573" group="PELICULAS SERIES", AXN
 http://190.7.19.197:232/play/a00b
-#EXTINF:-1,Cine.AR
+#EXTINF:0 type="stream" channelId="4659" group="PELICULAS SERIES", Cine.AR
 http://190.7.19.197:232/play/a04b
-#EXTINF:-1,Cinecanal
+#EXTINF:0 type="stream" channelId="64" group="PELICULAS SERIES", Cinecanal
 http://190.7.19.197:232/play/a05y
-#EXTINF:-1,Cinemax
+#EXTINF:0 type="stream" channelId="1326" group="PELICULAS SERIES", Cinemax
 http://190.7.19.197:232/play/a009
-#EXTINF:-1,Comedy Central
+#EXTINF:0 type="stream" channelId="1190" group="PELICULAS SERIES", Comedy Central
 http://190.7.19.197:232/play/a01d
-#EXTINF:-1,Europa Europa
+#EXTINF:0 type="stream" channelId="326" group="PELICULAS SERIES", Europa Europa
 http://190.7.19.197:232/play/a01o
-#EXTINF:-1,FX
+#EXTINF:0 type="stream" channelId="1303" group="PELICULAS SERIES", FX
 http://190.7.19.197:232/play/a04z
-#EXTINF:-1,Film & Arts
+#EXTINF:0 type="stream" channelId="-1" group="PELICULAS SERIES", Film & Arts
 http://190.7.19.197:232/play/a01e
-#EXTINF:-1,HBO
+#EXTINF:0 type="stream" channelId="1330" group="PELICULAS SERIES", HBO
 http://190.7.19.197:232/play/a05e
-#EXTINF:-1,HBO 2
+#EXTINF:0 type="stream" channelId="935" group="PELICULAS SERIES", HBO 2
 http://190.7.19.197:232/play/a05g
-#EXTINF:-1,HBO Family
+#EXTINF:0 type="stream" channelId="2584" group="PELICULAS SERIES", HBO Family
 http://190.7.19.197:232/play/a01m
-#EXTINF:-1,HBO Mundi
+#EXTINF:0 type="stream" channelId="2725" group="PELICULAS SERIES", HBO Mundi
 http://181.13.252.102:8000/play/a02a
-#EXTINF:-1,HBO Pop
+#EXTINF:0 type="stream" channelId="361" group="PELICULAS SERIES", HBO Pop
 http://190.7.19.197:232/play/a016
-#EXTINF:-1,HBO Plus
+#EXTINF:0 type="stream" channelId="2585" group="PELICULAS SERIES", HBO Plus
 http://190.7.19.197:232/play/a05f
-#EXTINF:-1,HBO Signature
+#EXTINF:0 type="stream" channelId="2583" group="PELICULAS SERIES", HBO Signature
 http://190.7.19.197:232/play/a04g
-#EXTINF:-1,HBO Xtreme
+#EXTINF:0 type="stream" channelId="2587" group="PELICULAS SERIES", HBO Xtreme
 http://190.7.19.197:232/play/a017
-#EXTINF:-1,Paramount Channel
+#EXTINF:0 type="stream" channelId="1719" group="PELICULAS SERIES", Paramount Channel
 http://181.209.96.155:10000/play/a12w
-#EXTINF:-1,Sony Channel
+#EXTINF:0 type="stream" channelId="188" group="PELICULAS SERIES", Sony Channel
 http://190.7.19.197:232/play/a01g
-#EXTINF:-1,Sony Movies
+#EXTINF:0 type="stream" channelId="1214" group="PELICULAS SERIES", Sony Movies
 http://190.7.19.197:232/play/a01i
-#EXTINF:-1,Space
+#EXTINF:0 type="stream" channelId="383" group="PELICULAS SERIES", Space
 http://190.7.19.197:232/play/a050
-#EXTINF:-1,Star Channel
+#EXTINF:0 type="stream" channelId="177" group="PELICULAS SERIES", Star Channel
 http://190.7.19.197:232/play/a05w
-#EXTINF:-1,Golden
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png
+#EXTINF:0 type="stream" channelId="-1" group="PELICULAS SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png", Golden
 http://179.43.96.253:8000/play/a2b0
-#EXTINF:-1,Studio Universal
+#EXTINF:0 type="stream" channelId="2625" group="PELICULAS SERIES", Studio Universal
 http://190.7.19.197:232/play/a049
-#EXTINF:-1,TCM
+#EXTINF:0 type="stream" channelId="895" group="PELICULAS SERIES", TCM
 http://190.7.19.197:232/play/a014
-#EXTINF:-1,TNT
+#EXTINF:0 type="stream" channelId="1052" group="PELICULAS SERIES", TNT
 http://190.7.19.197:232/play/a060
-#EXTINF:-1,TNT Novelas
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png
+#EXTINF:0 type="stream" channelId="-1" group="PELICULAS SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png", TNT Novelas
 http://190.7.19.197:232/play/a00g
-#EXTINF:-1,TNT Series
+#EXTINF:0 type="stream" channelId="2686" group="PELICULAS SERIES", TNT Series
 http://190.7.19.197:232/play/a088
-#EXTINF:-1,USA Network
-#EXTALBUMARTURL:https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png
+#EXTINF:0 type="stream" channelId="-1" group="PELICULAS SERIES" logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Logo.png", USA Network
 http://190.7.19.197:232/play/a04a
-#EXTINF:-1,Universal TV
+#EXTINF:0 type="stream" channelId="187" group="PELICULAS SERIES", Universal TV
 http://190.7.19.197:232/play/a03u
-#EXTINF:-1,Volver
+#EXTINF:0 type="stream" channelId="2723" group="PELICULAS SERIES", Volver
 http://190.7.19.197:232/play/a048
-#EXTINF:-1,Warner TV
+#EXTINF:0 type="stream" channelId="2557" group="PELICULAS SERIES", Warner TV
 http://190.7.19.197:232/play/a01h
-#EXTINF:-1,A3 Series
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png
+#EXTINF:0 type="stream" channelId="-1" group="PELICULAS SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png", A3 Series
 http://38.224.231.47:8000/play/a01o
-#EXTINF:-1,AM Sports
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1280px-Logo_AM-sports-2019.svg.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1280px-Logo_AM-sports-2019.svg.png", AM Sports
 http://190.7.19.197:232/play/a044
-#EXTINF:-1,DeporTV
+#EXTINF:0 type="stream" channelId="1925" group="DEPORTES", DeporTV
 http://190.7.19.197:232/play/a05d
-#EXTINF:-1,Dsports
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png", Dsports
 http://190.7.19.197:232/play/a09i
-#EXTINF:-1,Dspots 2
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png", Dsports 2
 http://190.7.19.197:232/play/a09h
-#EXTINF:-1,TyC Sports
-http://181.209.96.155:10000/play/a12q
-#EXTINF:-1,TyC Sports 2
+#EXTINF:0 type="stream" channelId="3802" group="DEPORTES", TyC Sports
 http://190.7.19.197:232/play/a04w
-#EXTINF:-1,ESPN
+#EXTINF:0 type="stream" channelId="4652" group="DEPORTES", TyC Sports 2
+http://mivra.vivolatamz.org/tycsports/tracks-v1a1/mono.m3u8?ip=186.23.118.130&token=3bc1ce38396a045d23f3d051094242e5532c1c24-1f-1782372993-1782318993
+#EXTINF:0 type="stream" channelId="2540" group="DEPORTES", ESPN
 http://190.7.19.197:232/play/a03n
-#EXTINF:-1,ESPN 2
+#EXTINF:0 type="stream" channelId="344" group="DEPORTES", ESPN 2
 http://190.7.19.197:232/play/a03m
-#EXTINF:-1,ESPN 3
+#EXTINF:0 type="stream" channelId="355" group="DEPORTES", ESPN 3
 http://190.7.19.197:232/play/a03o
-#EXTINF:-1,ESPN 4
+#EXTINF:0 type="stream" channelId="1432" group="DEPORTES", ESPN 4
 http://190.7.19.197:232/play/a05t
-#EXTINF:-1,ESPN 5
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESPN_5_Logo.png/960px-ESPN_5_Logo.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ESPN_5_Logo.png/960px-ESPN_5_Logo.png", ESPN 5
 http://179.43.96.253:8000/play/a1yf
-#EXTINF:-1,ESPN 6
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rVyEbI4ezkelhZEkLS18eW3eNbkdZC9LAg&s", ESPN 6
 http://38.224.231.47:8000/play/a02w
-#EXTINF:-1,ESPN 7
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png", ESPN 7
 http://179.43.96.253:8000/play/a1ur
-#EXTINF:-1,ESPN Premium
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/3840px-ESPN_Premium_logo.svg.png", ESPN Premium
 http://190.7.19.197:232/play/a038
-#EXTINF:-1,Fox Sports
+#EXTINF:0 type="stream" channelId="1328" group="DEPORTES", Fox Sports
 http://190.7.19.197:232/play/a05u
-#EXTINF:-1,Fox Sports 2
+#EXTINF:0 type="stream" channelId="170" group="DEPORTES", Fox Sports 2
 http://190.7.19.197:232/play/a03p
-#EXTINF:-1,Fox Sports 3
+#EXTINF:0 type="stream" channelId="180" group="DEPORTES", Fox Sports 3
 http://190.7.19.197:232/play/a04x
-#EXTINF:-1,TNT Premium
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_Sports_2020_logo.svg/3840px-TNT_Sports_2020_logo.svg.png
+#EXTINF:0 type="stream" channelId="-1" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_Sports_2020_logo.svg/3840px-TNT_Sports_2020_logo.svg.png", TNT Premium
 http://190.7.19.197:232/play/a037
-#EXTINF:-1,Animal Planet
+#EXTINF:0 type="stream" channelId="50" group="DOCUMENTALES", Animal Planet
 http://190.7.19.197:232/play/a081
-#EXTINF:-1,Discovery Channel
+#EXTINF:0 type="stream" channelId="57" group="DOCUMENTALES", Discovery Channel
 http://190.7.19.197:232/play/a065
-#EXTINF:-1,Discovery Home & Health
+#EXTINF:0 type="stream" channelId="2620" group="DOCUMENTALES", Discovery Home & Health
 http://190.7.19.197:232/play/a064
-#EXTINF:-1,Investigation Discovery
+#EXTINF:0 type="stream" channelId="59" group="DOCUMENTALES", Investigation Discovery
 http://179.43.96.253:8000/play/a1xu
-#EXTINF:-1,Discovery Science
+#EXTINF:0 type="stream" channelId="58" group="DOCUMENTALES", Discovery Science
 http://190.7.19.197:232/play/a04o
-#EXTINF:-1,Discovery Theater
+#EXTINF:0 type="stream" channelId="2558" group="DOCUMENTALES", Discovery Theater
 http://190.7.19.197:232/play/a053
-#EXTINF:-1,Discovery Turbo
+#EXTINF:0 type="stream" channelId="2840" group="DOCUMENTALES", Discovery Turbo
 http://190.7.19.197:232/play/a045
-#EXTINF:-1,Discovery World
+#EXTINF:0 type="stream" channelId="2839" group="DOCUMENTALES", Discovery World
 http://190.7.19.197:232/play/a055
-#EXTINF:-1,Food Network
+#EXTINF:0 type="stream" channelId="1244" group="DOCUMENTALES", Food Network
 http://179.43.96.253:8000/play/a2bh
-#EXTINF:-1,El Gourmet
+#EXTINF:0 type="stream" channelId="310" group="DOCUMENTALES", El Gourmet
 http://190.7.19.197:232/play/a01p
-#EXTINF:-1,Encuentro
+#EXTINF:0 type="stream" channelId="1920" group="DOCUMENTALES", Encuentro
 http://190.7.19.197:232/play/a013
-#EXTINF:-1,History
+#EXTINF:0 type="stream" channelId="1455" group="DOCUMENTALES", History
 http://190.7.19.197:232/play/a03h
-#EXTINF:-1,H2
+#EXTINF:0 type="stream" channelId="1201" group="DOCUMENTALES", H2
 http://190.7.19.197:232/play/a019
-#EXTINF:-1,Lifetime
+#EXTINF:0 type="stream" channelId="1200" group="DOCUMENTALES", Lifetime
 http://190.7.19.197:232/play/a01l
-#EXTINF:-1,National Geographic Channel
+#EXTINF:0 type="stream" channelId="56" group="DOCUMENTALES", National Geographic Channel
 http://190.7.19.197:232/play/a03s
-#EXTINF:-1,Canal Rural
+#EXTINF:0 type="stream" channelId="4673" group="DOCUMENTALES", Canal Rural
 http://190.7.19.197:232/play/a04j
-#EXTINF:-1,Cartoon Network
+#EXTINF:0 type="stream" channelId="40" group="INFANTIL", Cartoon Network
 http://190.7.19.197:232/play/a05s
-#EXTINF:-1,Cartoonito
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png
+#EXTINF:0 type="stream" channelId="1305" group="INFANTIL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", Cartoonito
 http://179.43.96.253:8000/play/a2c7
-#EXTINF:-1,Tooncast
+#EXTINF:0 type="stream" channelId="2639" group="INFANTIL", Tooncast
 http://190.7.19.197:232/play/a01w
-#EXTINF:-1,BabyTV
+#EXTINF:0 type="stream" channelId="473" group="INFANTIL", BabyTV
 http://190.7.19.197:232/play/a04i
-#EXTINF:-1,Disney Channel
+#EXTINF:0 type="stream" channelId="19" group="INFANTIL", Disney Channel
 http://190.7.19.197:232/play/a04v
-#EXTINF:-1,Disney Junior
+#EXTINF:0 type="stream" channelId="1197" group="INFANTIL", Disney Junior
 http://190.7.19.197:232/play/a03d
-#EXTINF:-1,Nick Jr.
+#EXTINF:0 type="stream" channelId="322" group="INFANTIL", Nick Jr.
 http://190.7.19.197:232/play/a01n
-#EXTINF:-1,Nickelodeon
+#EXTINF:0 type="stream" channelId="41" group="INFANTIL", Nickelodeon
 http://190.7.19.197:232/play/a03e
-#EXTINF:-1,PakaPaka
+#EXTINF:0 type="stream" channelId="4658" group="INFANTIL", PakaPaka
 http://190.7.19.197:232/play/a03y
-#EXTINF:-1,Adult Swim
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png
+#EXTINF:0 type="stream" channelId="-1" group="INFANTIL" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/3840px-Adult_Swim_2003_logo.svg.png", Adult Swim
 http://190.7.19.197:232/play/a01s
-#EXTINF:-1,CM
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png
+#EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png", CM
 http://190.7.19.197:232/play/a094
-#EXTINF:-1,HTV
+#EXTINF:0 type="stream" channelId="288" group="MUSICA", HTV
 http://190.7.19.197:232/play/a01a
-#EXTINF:-1,MTV
-#EXTALBUMARTURL:https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png
+#EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png", MTV
 http://190.7.19.197:232/play/a04q
-#EXTINF:-1,MTV 00s
+#EXTINF:0 type="stream" channelId="5220" group="MUSICA", MTV 00s
 http://181.13.252.102:8000/play/a053
-#EXTINF:-1,Quiero Musica
+#EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f5583be-00a7-4839-9e9a-119d9c46f01b/djlk5p2-a6df9ee7-baff-40ef-8449-e6f9fedbba8e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZjU1ODNiZS0wMGE3LTQ4MzktOWU5YS0xMTlkOWM0NmYwMWIvZGpsazVwMi1hNmRmOWVlNy1iYWZmLTQwZWYtODQ0OS1lNmY5ZmVkYmJhOGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FHU7AaxnULfMshr2ix9Hn8yd4zrswAadTuBwzeS5M6E", Quiero Musica
 http://190.7.19.197:232/play/a04r
-#EXTINF:-1,CNN
+#EXTINF:0 type="stream" channelId="2883" group="INTERNACIONAL", CNN
 http://38.224.231.47:8000/play/a06g
-#EXTINF:-1,CNN en Español
+#EXTINF:0 type="stream" channelId="1972" group="INTERNACIONAL", CNN en Español
 http://190.7.19.197:232/play/a03j
-#EXTINF:-1,CNN Chile
+#EXTINF:0 type="stream" channelId="152" group="INTERNACIONAL", CNN Chile
 http://38.226.49.253:8000/play/a04y
-#EXTINF:-1,Chilevisión
+#EXTINF:0 type="stream" channelId="3037" group="INTERNACIONAL", Chilevisión
 http://38.226.49.253:8000/play/a0c9
-#EXTINF:-1,DWTV
+#EXTINF:0 type="stream" channelId="352" group="INTERNACIONAL", DWTV
 http://38.224.231.47:8000/play/a01l
-#EXTINF:-1,BBC World News
+#EXTINF:0 type="stream" channelId="118" group="INTERNACIONAL", BBC World News
 http://38.224.231.47:8000/play/a01c
-#EXTINF:-1,Rai Italia
+#EXTINF:0 type="stream" channelId="2214" group="INTERNACIONAL", Rai Italia
 http://190.7.19.197:232/play/a01b
-#EXTINF:-1,RT Español
+#EXTINF:0 type="stream" channelId="2533" group="INTERNACIONAL", RT Español
 http://190.7.19.197:232/play/a01k
-#EXTINF:-1,TVE
+#EXTINF:0 type="stream" channelId="378" group="INTERNACIONAL", TVE
 http://190.7.19.197:232/play/a01r
-#EXTINF:-1,Galicia TV
+#EXTINF:0 type="stream" channelId="3762" group="INTERNACIONAL", Galicia TV
 http://190.7.19.197:232/play/a01c
-#EXTINF:-1,Las Estrellas
+#EXTINF:0 type="stream" channelId="1954" group="PELICULAS SERIES", Las Estrellas
 http://181.209.96.155:10000/play/a15z
-#EXTINF:-1,E!
+#EXTINF:0 type="stream" channelId="1188" group="INTERNACIONAL", E!
 http://190.7.19.197:232/play/a00a
