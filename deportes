@@ -108,7 +108,7 @@ http://181.209.105.115:2525/play/studiouniversal
 #EXTINF:0 type="stream" channelId="895" group="PELICULAS SERIES", TCM
 http://181.209.105.115:2525/play/tcm
 #EXTINF:0 type="stream" channelId="1052" group="PELICULAS SERIES", TNT
-http://190.7.19.197:232/play/a060
+http://181.209.105.115:2525/play/tnt
 #EXTINF:0 type="stream" channelId="-1" group="PELICULAS SERIES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/960px-Logo_TNT_Novelas.png", TNT Novelas
 http://181.209.105.115:2525/play/tnt
 #EXTINF:0 type="stream" channelId="2686" group="PELICULAS SERIES", TNT Series
