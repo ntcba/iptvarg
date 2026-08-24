@@ -4,7 +4,9 @@ https://sae12.playlist.ttvnw.net/v1/playlist/Cu0Gwg0S9pIhZCXzkxDCUYKaYJHor-wVBVx
 #EXTINF:0 type="stream" channelId="-1" group="LOCALES NOTICIAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gNgI9WaDrq_K5ZOrMwE2s6KIWY7MXL5ALA&s", GAMMA TV (2)
 https://sae12.playlist.ttvnw.net/v1/playlist/Cu0Gwg0S9pIhZCXzkxDCUYKaYJHor-wVBVxzn1fyn-guhLdg3maUjkSAyUN5holam78dzv63j16sB5rtUydkKKxYVJ1hTU19qtuAwnwGQbCBf3PzLggNX80HGLnHbXi_-mMxSWUtcpK8xB0cIgezc-0LyLNcRhPeHoY8KDyF1BpJkUyMZTqDdZOWbefrJvIbmXjXro-XvqX4FH0ldkELRPHmUjR1Mco5SG6EFXBnHcbNuSd9x92XlTo4DbuRBLk5X9nklafj7CKnY0Dcol8O0AFMXb2quDV6xkQGG-tFp5910krES1WM1Fq_chkcCEzlnq2MmJverbh2eetLYiFqqKGIiRf1FmhlSjJ5vjbb-WjAFxn04RE-w06BCgaI88nD0tcKr6zxbdxntbcJK2ka5LRFJoqTe8DFIK9a9UZ90U23hUDtG5XlinelWXI9nkjHCx9byZVDqEJlNCRiapBYCLq_iXXHKXuLcpM6xbBv_7eYPPaHWZq1kgdNzuN02rzkp3w19_BjefIE3Ma4CV4VcJvvitNJJjuKwzWTKPAxM4-b6AVG6x1LydhRcZWzevhUZypFikBNpfUHGnEof8zn79enWw2ZhoJK3LYFvMqMxi8vsZYRF7-YSu4sDMSVEdbTDAE0QZ-qLLlwE-k-qyJmZyo9PPvFUDbOhUXi6Qqqn-WZRJoJbFJTVHmD09bon3BMN-qZAEKRVDnHasN4Y3tyAoa97jz4-pvvg_8zqnLgQ9wth3eSokFPwFhOMWFfiPHOYpJpbMIW0ZaAtLbD__B_zmxVhWtOpvDNb6OYcLI8kM-UaOK6_YDtyfMFKtEfxDslVscAGY_1HCx5L6FSdAQ2wd_LvW4JX8yPzHOrSyt0gb5lbJ7BOk_LEqHyPuAoPI4Ad2CsXWxw0NxuN_D3S9GrPrRS6-eEaVIe0nCADLEez3Yt8D_Jf7setW6fftAmAVF3bkKH8Tt5VCKG01RhAezKBXCb6ZacJa9lECEK7HPayCP8CdB_E-iP6P4JVLAJJta36lpDdS6zf173hjWjiaCK-4DMkDai0kc7iLQJvonL5wSpVyjeP47CQ4GrajtvA35_a6aS_MWu-rERS544oUUfaDu_9gfUbc34S6IoQkO1M4O3kcqXeq0vZ7gQRBne1WgCvzdABUXBEH_N8XtpJFPOJhoM8-8Q9uDuRDyeNO2BIAEqCXVzLWVhc3QtMjDuDw
 #EXTINF:0 type="stream" channelId="3789" group="LOCALES NOTICIAS", Telefé
-http://186.33.57.100:8000/play/a2rn
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:0 type="stream" channelId="3789" group="LOCALES NOTICIAS", Telefé Interior
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:0 type="stream" channelId="2409" group="LOCALES NOTICIAS", El Trece
 http://138.121.113.175:8000/play/a08l
 #EXTINF:0 type="stream" channelId="2546" group="LOCALES NOTICIAS", América TV
@@ -23,8 +25,8 @@ http://138.121.113.175:8000/play/a04e
 http://138.121.113.175:8000/play/a04f
 #EXTINF:0 type="stream" channelId="4653" group="LOCALES NOTICIAS", Crónica
 http://138.121.113.175:8000/play/a04g
-#EXTINF:0 type="stream" channelId="4670" group="LOCALES NOTICIAS", Net TV
-http://190.7.19.197:232/play/a095
+#EXTINF:0 type="stream" channelId="4670" group="LOCALES NOTICIAS", Aunar
+http://190.128.214.97:64333/play/a057
 #EXTINF:0 type="stream" channelId="-1" group="LOCALES NOTICIAS" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1OGYiOKTot9EzvubZyfMqRNAt45YelYAS8aWAN2CZYR76OTRJxfNittMTuPYWiDOVCG00BWSh-XypPvQAS96EG3-aJKrlWOFM-lF-QY5qp423XuKvj8VD5KTzd17omZ9JaCKTyXGx4cdiGYDZjBw7_gJc72aVte4QUxGMs84nkWm_bVolnCB-0DD7Is/s156/ELDESTAPE-MUNDO-VF2.png", El Destape
 http://190.7.19.197:232/play/a00r
 #EXTINF:0 type="stream" channelId="4663" group="LOCALES NOTICIAS", Canal de la Ciudad
@@ -38,7 +40,7 @@ http://138.121.113.175:8000/play/a04h
 #EXTINF:0 type="stream" channelId="139" group="LOCALES NOTICIAS", France 24
 http://190.232.196.147:8000/play/a043
 #EXTINF:0 type="stream" channelId="4648" group="LOCALES NOTICIAS", Argentinisima
-http://190.7.19.197:232/play/a01z
+http://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:0 type="stream" channelId="4662" group="LOCALES NOTICIAS", Metro (AR)
 http://138.121.113.175:8000/play/a056
 #EXTINF:0 type="stream" channelId="1208" group="PELICULAS SERIES", A&E
@@ -140,7 +142,9 @@ http://190.232.196.147:8000/play/a05c
 #EXTINF:0 type="stream" channelId="3802" group="DEPORTES", TyC Sports
 http://138.121.113.175:8000/play/a05i
 #EXTINF:0 type="stream" channelId="3802" group="DEPORTES", TyC Sports 2
-http://186.33.57.100:8000/play/a1vn
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
+#EXTINF:0 type="stream" channelId="3802" group="DEPORTES", TyC Sports Internacional
+http://190.128.214.97:64333/play/a01l
 #EXTINF:0 type="stream" channelId="2540" group="DEPORTES", ESPN
 http://138.121.113.175:8000/play/a03p
 #EXTINF:0 type="stream" channelId="344" group="DEPORTES", ESPN 2
@@ -231,8 +235,8 @@ http://190.7.19.197:232/play/a094
 http://138.121.113.175:8000/play/a05e
 #EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png", MTV
 http://138.121.113.175:8000/play/a05c
-#EXTINF:0 type="stream" channelId="5220" group="MUSICA", MTV 00s
-http://181.13.252.102:8000/play/a053
+#EXTINF:0 type="stream" channelId="5220" group="MUSICA", Music Top
+http://190.128.214.97:64333/play/a06o
 #EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f5583be-00a7-4839-9e9a-119d9c46f01b/djlk5p2-a6df9ee7-baff-40ef-8449-e6f9fedbba8e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZjU1ODNiZS0wMGE3LTQ4MzktOWU5YS0xMTlkOWM0NmYwMWIvZGpsazVwMi1hNmRmOWVlNy1iYWZmLTQwZWYtODQ0OS1lNmY5ZmVkYmJhOGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FHU7AaxnULfMshr2ix9Hn8yd4zrswAadTuBwzeS5M6E", Quiero Musica
 http://138.121.113.175:8000/play/a05d
 #EXTINF:0 type="stream" channelId="2883" group="INTERNACIONAL", CNN
